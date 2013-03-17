@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="robotlegs.sound.SoundManagerExtension"/>
+    <classEntry path="robotlegs.sound.api.ISoundManager"/>
+    <classEntry path="robotlegs.sound.impl.ActiveSound"/>
+    <classEntry path="robotlegs.sound.impl.SoundManager"/>
+    <classEntry path="robotlegs.sound.dsl.ISoundType"/>
+    <classEntry path="robotlegs.sound.dsl.ISoundListener"/>
+    <classEntry path="robotlegs.sound.impl.FadeTween"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
